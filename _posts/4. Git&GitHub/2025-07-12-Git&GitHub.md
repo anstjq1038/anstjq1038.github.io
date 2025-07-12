@@ -1,7 +1,7 @@
 ---
 title: "Git&GitHub"
 date: 2025-07-12 14:05:00 +0900
-categories: [Git&GitHub]  # <-- 바로 이 부분입니다!
+categories: [4.Git&GitHub]  # <-- 바로 이 부분입니다!
 tags: [Git&GitHub, 첫글]      # 태그도 동일한 방식입니다.
 ---
 
