@@ -16,7 +16,7 @@ timezone:
 
 title: 문섭이 개발블로그 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: 진짜 개발자가 되어보자 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
